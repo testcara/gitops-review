@@ -7,5 +7,4 @@ spec:
   - x86_64
   managementState: Managed
   skippedTemplates:
-  - rails-pgsql-persistent
   - rails-postgresql-example
